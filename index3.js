@@ -1,3 +1,4 @@
+// Storing Values with the Assignment Operator
 let a;
 let b = 2;
 console.log(a)
